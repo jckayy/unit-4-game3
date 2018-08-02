@@ -1,0 +1,54 @@
+.instruction {
+	background-color: pink; 
+	opacity: 0.6; 
+	font-family:'Times New Roman', Times, serif;
+	font-size: 120%;
+	color: green;
+}
+
+.randomNumber {
+	height: 100px;
+	background-color: green; 
+	color: rgb(62, 6, 126);
+	font-size: 250%; 
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.totalWL { 
+	margin: 0 0 0 5px;
+	height: 100px;
+	background-color: lightblue; 
+	font-family: 'Times New Roman', Times, serif; 
+	color: blue;
+ }
+
+ .totalScore {
+ 	background-color: rgb(4, 70, 20); 
+	font-family: 'Times New Roman', Times, serif; 
+	color:white;
+
+ }
+
+ .scoreDisplay {
+
+	background-color: rgb(4, 70, 20); 
+	color:white;
+	font-size: 120%;
+	font-family: 'Times New Roman', Times, serif; 
+	height: 100px;
+ }
+
+ .wallpaper { 
+	background-image: url("../images/wallpaper.jpg");
+	background-size: 100%;
+ }
+
+ .header { 
+	font-family: 'Times New Roman', Times, serif; 
+	height: 90px;
+	width: 300px;
+	line-height: 90px;
+	background-color: orange;
+	color: white;
+  }
+
